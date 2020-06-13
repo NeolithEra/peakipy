@@ -23,7 +23,7 @@ classifiers = [
 license="GNU GPLv3"
 [tool.poetry.dependencies]
 python = "^3.6"
-pandas = "^0.24.0"
+pandas = ">=0.24.0"
 numpy = "^1.16"
 matplotlib = "^3.0"
 PyYAML = "^5.1"
